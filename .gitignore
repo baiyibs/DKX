@@ -3,3 +3,12 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+
+# Makefile
+Makefile
+# CubeMX 生成的启动文件
+startup_stm32f103xb.s
+# CubeMX 生成的启动文件
+startup_stm32f103xb.s
+# CubeMX 生成的链接脚本/内存定义
+STM32F103XX_FLASH.h
